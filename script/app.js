@@ -1,6 +1,3 @@
-const dotenv = require('dotenv');
-dotenv.config();
-
 const firebaseConfig = {
   apiKey: "AIzaSyAhphZnEirws3UFiJv1bW7k5-7yYLWGVpo",
   authDomain: "requizz.firebaseapp.com",
